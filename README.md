@@ -19,7 +19,7 @@
       <li>Ensures responsive design for usability across devices.</li>
     </ul>
   </li>
-  <li>JavaScript:
+  <li><b>JavaScript:</b>
     <ul>
       <li>Handles starting, stopping, and processing the speech-to-text conversion.</li>
       <li>Updates the displayed text in real-time as speech is recognized.</li>
