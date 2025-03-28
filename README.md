@@ -12,7 +12,7 @@
       <li>Includes elements like a start/stop button, a text display area for the converted speech, and instructions for users.</li>
     </ul>
   </li>
-  <li><b>CSS:</b>
+  <li><b>CSS (style.css) :</b>
     <ul>
       <li>Styles the application interface for a clean and user-friendly experience.</li>
       <li>Adds visual indicators (e.g., animations or color changes) to show the app's active state during speech recognition.</li>
