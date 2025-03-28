@@ -6,7 +6,7 @@
 </p>
 <h2>Key Components:</h2>
 <ol>
-  <li><b>HTML:</b>
+  <li><b>HTML: (index.html)</b>
     <ul>
       <li>Provides the basic structure of the app.</li>
       <li>Includes elements like a start/stop button, a text display area for the converted speech, and instructions for users.</li>
