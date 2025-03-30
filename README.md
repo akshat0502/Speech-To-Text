@@ -15,7 +15,7 @@
   <li><b>CSS (style.css) :</b>
     <ul>
       <li>Styles the application interface for a clean and user-friendly experience.</li>
-      <li>Adds visual indicators (e.g., animations or color changes) to show the app's active state during speech recognition.</li>
+      <li>Adds visual indicators (e.g., <b>animations</b> or color changes) to show the app's active state during speech recognition.</li>
       <li>Ensures responsive design for usability across devices.</li>
     </ul>
   </li>
