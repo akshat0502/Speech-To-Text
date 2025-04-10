@@ -2,7 +2,7 @@
   <a href="https://akshat0502.github.io/Speech-To-Text/">Speech To Text</a>
 </h1>
 <p>
-  A <b>Speech-to-Text Application</b> is a web-based tool that captures user speech through a <b>microphone</b> and converts it into written text in <b>real-time</b>. Built using  <b>HTML, CSS,</b> and <b>JavaScript</b> this project leverages the <b>browser's Speech Recognition API</b> for processing voice input and displaying the output dynamically.
+  A <b>Speech To Text Application</b> is a web-based tool that captures user speech through a <b>microphone</b> and converts it into written text in <b>real-time</b>. Built using  <b>HTML, CSS,</b> and <b>JavaScript</b> this project leverages the <b>browser's Speech Recognition API</b> for processing voice input and displaying the output dynamically.
 </p>
 <h2>Key Components:</h2>
 <ol>
