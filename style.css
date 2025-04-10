@@ -33,6 +33,9 @@ p{
     z-index: 1;
     transition: all 0.3s;
 }
+.btn-pulse:hover{
+    background-color: #f500a3
+}
 .animate{
     animation: pulse 1s  infinite;
 }
