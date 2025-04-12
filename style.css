@@ -14,6 +14,9 @@ h1{
     font-size: 3rem;
     margin-bottom: 10px;
 }
+h1:hover{
+    color: aquamarine;
+}
 p{
     font-size: 1.1rem;
     margin-bottom: 20px;
